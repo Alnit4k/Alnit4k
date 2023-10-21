@@ -9,4 +9,4 @@ Skills: PYTHON/ SQL / PANDAS/ R / REACT / JS / HTML / CSS / UI / UX
 - 🔭 I’m currently working on this page. 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alnik4k)](https://github.com/Alnit4k)
+[radical]: (https://github-readme-stats.vercel.app/api?username=alnit4k&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)
