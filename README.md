@@ -1,10 +1,10 @@
 ### Hi there 👋, My name is Misael
-#### I'm Web Developer and Data Scientist
+#### I'm Coder and Data Scientist
 ![I'm Web Developer and Data Scientist](https://github.com/Alnit4k/Alnit4k/blob/main/banner.png)
 
-I do content on Design and Development. I really enjoy learning languages and frameworks like React Native, as well as work in WordPress. I also enjoy wireframing, UI, UX and design in general. You can check out my twitter and instagram. I alsoI am also an experienced data scientist, I currently use SQL and Python to perform data analysis and I am also venturing into automation using the Python language
+I'm a coder with a passion for automation and data. Whether you need to streamline repetitive tasks on your computer (using Python libraries like PyAutoGUI and Selenium), wrangle data from websites and databases (with SQL and pandas), or bridge the gap between the physical and digital world (programming Arduinos with C), I'm your person!
 
-Skills: PYTHON/ SQL / PANDAS/ R / REACT / JS / HTML / CSS / UI / UX
+Skills: PYTHON / SQL / PANDAS / R / C / PYAUTOHUI / SELENIUM / C++OK
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alnit4k&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
