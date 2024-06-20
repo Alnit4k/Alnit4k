@@ -8,3 +8,5 @@ Skills: PYTHON / SQL / PANDAS / R / C / PYAUTOHUI / SELENIUM / C++
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alnit4k&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
