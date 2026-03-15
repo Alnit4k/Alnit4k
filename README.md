@@ -13,6 +13,14 @@ I'm a coder with a passion for automation and data. Whether you need to streamli
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+### 🤖 Machine Learning Models
+![Linear Regression](https://img.shields.io/badge/Linear_Regression-FF6F00?style=for-the-badge)
+![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-00599C?style=for-the-badge)
+![Decision Trees](https://img.shields.io/badge/Decision_Trees-228B22?style=for-the-badge)
+![Random Forest](https://img.shields.io/badge/Random_Forest-006400?style=for-the-badge)
+![KNN](https://img.shields.io/badge/KNN-FF1493?style=for-the-badge)
+![Clustering](https://img.shields.io/badge/K--Means-800080?style=for-the-badge)
+
 ### 📊 Data Visualization & BI
 ![Matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
