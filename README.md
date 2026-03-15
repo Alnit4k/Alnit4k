@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm a coder with a passion for automation and data. Whether you need to streamline repetitive tasks on your computer (using Python libraries like PyAutoGUI and Selenium), wrangle data from websites and databases (with SQL and pandas), or bridge the gap between the physical and digital world (programming Arduinos with C)
+I am a data enthusiast focused on Data Science, analytics, and problem solving through data.
+I enjoy transforming raw data into meaningful insights using tools like Python, SQL, and Power BI.
+My work involves data collection through APIs and web scraping, data cleaning and transformation, exploratory analysis, and building predictive models. I also have experience creating data visualizations and dashboards to support decision making.
+Beyond technical skills, I am passionate about learning, experimentation, and applying data to solve real-world problems.
+Currently, I am expanding my knowledge in Machine Learning, statistical modeling, and data-driven applications.
 
 
 ## 🌐 Socials:
