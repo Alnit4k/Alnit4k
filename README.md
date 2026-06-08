@@ -1,3 +1,6 @@
+<img width="1983" height="793" alt="ChatGPT Image Jun 8, 2026, 11_06_13 AM" src="https://github.com/user-attachments/assets/8fb41cda-2919-4d26-bff5-3e0a378a6cf9" />
+
+
 # Sobre mim:
 Sou cientista de dados, analista e solucionador de problemas por meio de dados.
 Gosto de transformar dados brutos em insights relevantes usando ferramentas como Python, SQL e Power BI. Meu trabalho envolve coleta de dados por meio de APIs e web scraping, limpeza e transformação de dados, análise exploratória e construção de modelos preditivos. Também tenho experiência na criação de visualizações de dados e dashboards para auxiliar na tomada de decisões. Além das habilidades técnicas, sou apaixonado por aprender, experimentar e aplicar dados para resolver problemas do mundo real. Atualmente, estou expandindo meu conhecimento em Machine Learning, modelagem estatística e aplicações orientadas a dados.
