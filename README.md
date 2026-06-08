@@ -1,13 +1,10 @@
-# 💫 About Me:
-I am a data enthusiast focused on Data Science, analytics, and problem solving through data.
-I enjoy transforming raw data into meaningful insights using tools like Python, SQL, and Power BI.
-My work involves data collection through APIs and web scraping, data cleaning and transformation, exploratory analysis, and building predictive models. I also have experience creating data visualizations and dashboards to support decision making.
-Beyond technical skills, I am passionate about learning, experimentation, and applying data to solve real-world problems.
-Currently, I am expanding my knowledge in Machine Learning, statistical modeling, and data-driven applications.
+# Sobre mim:
+Sou cientista de dados, analista e solucionador de problemas por meio de dados.
+Gosto de transformar dados brutos em insights relevantes usando ferramentas como Python, SQL e Power BI. Meu trabalho envolve coleta de dados por meio de APIs e web scraping, limpeza e transformação de dados, análise exploratória e construção de modelos preditivos. Também tenho experiência na criação de visualizações de dados e dashboards para auxiliar na tomada de decisões. Além das habilidades técnicas, sou apaixonado por aprender, experimentar e aplicar dados para resolver problemas do mundo real. Atualmente, estou expandindo meu conhecimento em Machine Learning, modelagem estatística e aplicações orientadas a dados.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https:/www.linkedin.com/in/misael-brito/) 
+## Redes Sociais:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/misael-brito/) 
 
 ## 💻 Tech Stack
 
@@ -32,18 +29,14 @@ Currently, I am expanding my knowledge in Machine Learning, statistical modeling
 ### 🗄️ Databases & Query
 ![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=database&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 
 ### 🌐 Data Collection & APIs
 ![Requests](https://img.shields.io/badge/requests-2C5BB4?style=for-the-badge)
 ![BeautifulSoup](https://img.shields.io/badge/beautifulsoup-8B4513?style=for-the-badge)
 ![JSON](https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white)
 
-### 💻 Development
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### ⚙️ Tools
+### ⚙️ Ferramentas
 ![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
@@ -53,6 +46,11 @@ Currently, I am expanding my knowledge in Machine Learning, statistical modeling
 ![](https://github-readme-stats.vercel.app/api?username=Alnit4k&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Alnit4k&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alnit4k&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+### 💻 Development
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Alnit4k&icon=0&color=0)](https://visitcount.itsvg.in)
