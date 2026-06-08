@@ -7,7 +7,7 @@ Currently, I am expanding my knowledge in Machine Learning, statistical modeling
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/misael-brito/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https:/www.linkedin.com/in/misael-brito/) 
 
 ## 💻 Tech Stack
 
